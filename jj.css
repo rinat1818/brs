@@ -27,7 +27,7 @@ body{
     margin: auto;
     margin-bottom: 15px;
 }
-img{
+.card img{
     display: block;
     height: 70px;
     margin-left: auto;
@@ -44,5 +44,38 @@ a{
 p{
     font-size: 15px;
 }
-/* .card img { height: 100px; }
-img{
+
+.hidden{
+    display: none;
+}
+
+
+.tt{
+     margin-top: 5px;
+}
+    .card1{
+    background-color: aqua;
+    width: 165px; 
+    height: 165px;
+    margin: 10px;  */
+    /* display: inline-block; */
+    
+}
+
+
+.tm{
+    width: 165px;
+    height: 165px;
+       /* margin: 10px;  */
+}
+.img20 {
+    width: 100%;
+}
+.card1 img{
+    position: absolute;
+    /* display: none; */
+}
+.fli .bake{
+    /* position: absolute; */
+    display: none;
+}
